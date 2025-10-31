@@ -8,16 +8,16 @@
 </p>
 
 <div align="center">
-
+ 
 ### I'm Vidura Dewantha  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Network+Technology+Undergraduate;Cloud+%26+Cybersecurity+Enthusiast;Web3+Explorer)](https://git.io/typing-svg)
 </div> 
 
 ---
 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=WKVDewantha&label=Profile%20views&color=33FF33&style=flat" alt="WKVDewantha" /> </p>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WKVDewantha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Stats" />
