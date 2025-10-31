@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-  <i>💚 Let's build something amazing together!</i>
+  <i>Let's build something amazing together!</i>
 </div>
