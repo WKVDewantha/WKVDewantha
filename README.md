@@ -41,10 +41,3 @@
     <img src="https://skillicons.dev/icons?i=arduino,js,cpp,cs,css,html,php,java,react,py,ts,mysql,nextjs,nodejs,docker,gcp,aws,azure,git,postman,firebase,netlify,androidstudio,visualstudio,vscode,linux,kali,ps,ai,pr,etc" />
   </a>
 </p>
-
----
-
-
-<div align="center">
-  <i>Let's build something amazing together!</i>
-</div>
