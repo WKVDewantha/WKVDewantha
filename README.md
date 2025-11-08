@@ -31,7 +31,9 @@
 ---
 
 <details>
-  <summary>Github Stats </summary>
+  <summary>
+  <h3>Github Stats</h3> 
+  </summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WKVDewantha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKVDewantha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
