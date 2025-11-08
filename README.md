@@ -11,29 +11,15 @@
 
 <div align="center">
  
-### I'm Vidura Dewantha  
+### I'm Dewantha  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Network+Technology+Undergraduate;Cloud+%26+Cybersecurity+Enthusiast;Web3+Explorer)](https://git.io/typing-svg)
 </div> 
 
 ---
 
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=WKVDewantha&label=Profile%20views&color=33FF33&style=flat" alt="WKVDewantha" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WKVDewantha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKVDewantha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
 
-<br>
-<br>
-<br>
-</div>
-<div align = "center"> 
- 
-</div>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -41,3 +27,18 @@
     <img src="https://skillicons.dev/icons?i=arduino,js,cpp,cs,css,html,php,java,react,py,ts,mysql,nextjs,nodejs,docker,gcp,aws,azure,git,postman,firebase,netlify,androidstudio,visualstudio,vscode,linux,kali,ps,ai,pr,etc" />
   </a>
 </p>
+
+---
+
+<details>
+  <summary>Github Stats </summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WKVDewantha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKVDewantha&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
+</div>
+
+
+</details>
+
+
+
