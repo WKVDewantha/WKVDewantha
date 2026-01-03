@@ -32,10 +32,12 @@
 
 <details>
   <summary>
-  <h3>Github Stats</h3> 
+  <h3>Details</h3> 
   </summary>
 <div align="center">
- 
+
+ ![DEVine_updated](https://github.com/user-attachments/assets/04911413-cd8e-4dd1-bfd7-3250699a4e53)
+
 </div>
 </details>
 
