@@ -1,7 +1,4 @@
 <p align="left">
-
- ![DEVine_updated](https://github.com/user-attachments/assets/9501c387-e364-4ca5-a9bb-5f433f64360c)
-
  <a href="https://linkedin.com/in/dewantha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
  <a href="mailto:viduradewantha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"></a>
   <a href="https://t.me/ALEXDROPZ" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"></a>
